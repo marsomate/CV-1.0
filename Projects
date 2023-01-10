@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html
+<head>
+    <meta charset="UTF-8">
+    <title>Mate's Website</title>
+</head>
+<body>
+    <ul>
+        <li>University Projects</li>
+        <li>Harman Projects</li>
+        <li>Beginner Projects</li>
+    </ul>
+</body>
+</html>  
