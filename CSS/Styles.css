@@ -50,7 +50,7 @@ background-color: #F5EBE0;
     display: inline-block;
     background-color: #FEFCF3;
     width: 10%;
-    height: 26%;
+    height: 30%;
     padding: 1%;
     position: absolute;
 }
@@ -59,7 +59,7 @@ background-color: #F5EBE0;
     background-color: #FEFCF3;
     left: 12%;
     width: 86%;
-    height: 26%;
+    height: 30%;
     padding: 1%;
     position: absolute;
     
@@ -67,7 +67,7 @@ background-color: #F5EBE0;
 .third{
     display: inline-block;
     background-color: #FEFCF3;
-    top: 30%;
+    top: 32%;
     width: 98%;
     height: 35%;
     padding: 1%;
