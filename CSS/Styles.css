@@ -49,17 +49,17 @@ background-color: #F5EBE0;
 .first{
     display: inline-block;
     background-color: #FEFCF3;
-    width: 15%;
-    height: 35%;
+    width: 10%;
+    height: 26%;
     padding: 1%;
     position: absolute;
 }
 .second{
     display: inline-block;
     background-color: #FEFCF3;
-    left: 17%;
-    width: 81%;
-    height: 35%;
+    left: 12%;
+    width: 86%;
+    height: 26%;
     padding: 1%;
     position: absolute;
     
@@ -67,7 +67,7 @@ background-color: #F5EBE0;
 .third{
     display: inline-block;
     background-color: #FEFCF3;
-    top: 38%;
+    top: 30%;
     width: 98%;
     height: 40%;
     padding: 1%;
