@@ -1,5 +1,5 @@
 body {
-    background-color: #97DECE;
+    background-color: #FEFCF3;
 }
 hr {
     border-color: #e0e0e0;
@@ -9,20 +9,20 @@ hr {
 }
 h1{
     font-family: Arial, Helvetica, sans-serif;
-    color: #0e504e;
+    color: #885a53;
     text-shadow: 5px 5px 5px rgb(94, 148, 230);
 }
 h2{
     font-family: Arial, Helvetica, sans-serif;
-    color: #0e504e;
+    color: #885a53;
 }
 h3{
     font-family: Arial, Helvetica, sans-serif;
-    color: #0e504e;
+    color: #885a53;
 }
 p{
     font-family: Arial, Helvetica, sans-serif;
-    color: #0e504e;
+    color: #885a53;
 }
 
 td{
@@ -35,5 +35,5 @@ td{
     width: 100%;
 }
 .default td:hover{
-background-color: #8caaaa;
+background-color: #F5EBE0;
 }
