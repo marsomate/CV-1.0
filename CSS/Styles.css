@@ -1,5 +1,5 @@
 body {
-    background-color: #DBA39A;
+    background-color: #DFD3C3;
     margin: 0px;
 }
 hr {
@@ -101,33 +101,39 @@ background-color: #F5EBE0;
 }
 .cloud_picture_1{
     background-color: #FEFCF3;
-    width: 10%;
-    top: 60%;
-    left: 50%;
+    width: 150px;
+    top: 150px;
+    left: 700px;
     display: inline-block;
     height: auto;
     position:absolute;
 }
 .cloud_picture_2{
     background-color: #FEFCF3;
-    width: 10%;
+    width: 150px;
+    top: 20px;
+    left: 150px;
     display: inline-block;
     height: auto;
-    position:relative;
-    left: 10%;
-    top: 10%;
+    position:absolute;
 }
 .cloud_picture_3{
     background-color: #FEFCF3;
-    width: 10%;
+    width: 150px;
+    top: 20px;
+    left: 1000px;
     display: inline-block;
     height: auto;
-    position:relative;
-    left: 60%;
-    top: 15px;
+    position:absolute;
 }
 .big_picture{
     background-color: #FEFCF3;
-    width: 100%;
+    width: 1500px;
+    top: 50px;
+    position: relative;
     height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
 }
