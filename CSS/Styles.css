@@ -69,14 +69,14 @@ background-color: #F5EBE0;
     background-color: #FEFCF3;
     top: 30%;
     width: 98%;
-    height: 40%;
+    height: 35%;
     padding: 1%;
     position: absolute;
 }
 .fourth{
     display: inline-block;
     background-color: #DFD3C3;
-    top: 74%;
+    top: 69%;
     width: 98%;
     height: 15%;
     padding: 1%;
@@ -85,7 +85,7 @@ background-color: #F5EBE0;
 .fifth{
     display: inline-block;
     background-color: #D0B8A8;
-    top: 91%;
+    top: 86%;
     width: 98%;
     height: 40%;
     padding: 1%;
@@ -130,6 +130,4 @@ background-color: #F5EBE0;
     background-color: #FEFCF3;
     width: 100%;
     height: auto;
-    display:block;
-    
 }
