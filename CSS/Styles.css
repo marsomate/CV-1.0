@@ -7,3 +7,20 @@ hr {
     border-style: dotted none none;
     width: 20%;
 }
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0e504e;
+    text-shadow: 5px 5px 5px rgb(94, 148, 230);
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0e504e;
+}
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0e504e;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0e504e;
+}
