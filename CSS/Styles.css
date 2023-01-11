@@ -50,7 +50,7 @@ background-color: #F5EBE0;
     display: inline-block;
     background-color: #FEFCF3;
     width: 150px;
-    height: 200px;
+    height: 220px;
     padding: 20px;
     position: absolute;
 }
@@ -58,7 +58,7 @@ background-color: #F5EBE0;
     display: inline-block;
     background-color: #FEFCF3;
     width: 100%;
-    height: 200px;
+    height: 220px;
     left:180px;
     padding: 20px;
     position: absolute;
@@ -69,7 +69,7 @@ background-color: #F5EBE0;
     background-color: #FEFCF3;
     width: 100%;
     height: 300px;
-    top:240px;
+    top:260px;
     padding: 20px;
     position: absolute;
 }
