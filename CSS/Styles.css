@@ -2,7 +2,7 @@ body {
     background-color: #97DECE;
 }
 hr {
-    border-color: #439A97;
+    border-color: #e0e0e0;
     border-width: 5px;
     border-style: dotted none none;
     width: 20%;
@@ -28,7 +28,12 @@ p{
 td{
     padding: 15px;
 }
-#default{
+
+.default{
     margin-left: auto;
     margin-right: auto;
+    width: 100%;
+}
+.default td:hover{
+background-color: #8caaaa;
 }
